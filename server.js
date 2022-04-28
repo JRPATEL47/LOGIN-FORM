@@ -1,13 +1,6 @@
-/*********************************************************************************
- *  WEB322 – Assignment 06
- *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
- *  (including 3rd party web sites) or distributed to other students.
- *
- *  Name: Jenish Rajnikant Patel Student ID: 131733206 Date: 02-12-2021
- *
+/*
  *  Online (Heroku) Link: https://thawing-waters-16455.herokuapp.com/
- *
- ********************************************************************************/
+ */
 
 var express = require("express");
 var dataService = require("./data-service.js");
